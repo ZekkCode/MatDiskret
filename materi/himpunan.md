@@ -1,7 +1,7 @@
 # HIMPUNAN
 
-Mengutip dari buku "Teori Himpunan" oleh Darwanto dkk, himpunan adalah kumpulan objek atau benda yang didefinisikan secara jelas, di mana setiap anggotanya dapat dibedakan dari yang bukan bagian himpunan tersebut.
-Dalam himpunan, setiap objek disebut sebagai anggota atau elemen. Anggota himpunan ditandai dengan "∈", sementara yang bukan anggota ditandai dengan "∉", sebagaimana dilansir dari laman CNN Indonesia.
+Himpunan adalah kumpulan objek atau benda yang didefinisikan secara jelas, di mana setiap anggotanya dapat dibedakan dari yang bukan bagian himpunan tersebut.
+Dalam himpunan, setiap objek disebut sebagai anggota atau elemen. Anggota himpunan ditandai dengan "∈", sementara yang bukan anggota ditandai dengan "∉"
 
 Contohnya:
 A = {harimau, anjing, kucing, kelinci}
